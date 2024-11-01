@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1730205691 "PremVel_research_statment.xdv" "PremVel_research_statment.pdf" "PremVel_research_statment" 1730205691 0
-  "PremVel_research_statment.xdv" 1730205691 71880 79088dcf0fc96e3073c8d54ba8218ebf "xelatex"
+["xdvipdfmx"] 1730481771 "PremVel_research_statment.xdv" "PremVel_research_statment.pdf" "PremVel_research_statment" 1730481772 0
+  "PremVel_research_statment.xdv" 1730481771 87976 f9ae9922def74bd1115e010ff884fac2 "xelatex"
   (generated)
   "PremVel_research_statment.pdf"
   (rewritten before read)
-["xelatex"] 1730205689 "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/PremVel_research_statment.tex" "PremVel_research_statment.xdv" "PremVel_research_statment" 1730205691 0
+["xelatex"] 1730481767 "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/PremVel_research_statment.tex" "PremVel_research_statment.xdv" "PremVel_research_statment" 1730481772 0
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136752454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -64,10 +64,10 @@
   "C:/Program Files/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/premv/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1730141520 37262408 cf6dd936d28cd4ffd1bb21d36371b0ee ""
-  "PremVel_research_statment.aux" 1730205690 520 ba362eaa8253f014b2815f0c2f4de390 "xelatex"
-  "PremVel_research_statment.out" 1730205690 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "PremVel_research_statment.tex" 1730205688 7472 1ea7f11aa8e4b6995439dcb200a52a55 ""
-  "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/PremVel_research_statment.tex" 1730205688 7472 1ea7f11aa8e4b6995439dcb200a52a55 ""
+  "PremVel_research_statment.aux" 1730481771 877 8264655bda35bc32dfe9a8ba8d8f45bc "xelatex"
+  "PremVel_research_statment.out" 1730481771 393 4efdd1b03ff3bd57ce2fe4043bdd96c7 "xelatex"
+  "PremVel_research_statment.tex" 1730481766 9030 3bddd139c5974df034547b5cf00364e7 ""
+  "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/PremVel_research_statment.tex" 1730481766 9030 3bddd139c5974df034547b5cf00364e7 ""
   (generated)
   "PremVel_research_statment.aux"
   "PremVel_research_statment.log"
