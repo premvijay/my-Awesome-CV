@@ -1,0 +1,192 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{2024JCAP...05..080V}{article}{}
+      \name{author}{2}{}{%
+        {{hash=72561fa4b5cb891e05ca5f9cdf49f619}{%
+           family={{Velmani}},
+           familyi={V\bibinitperiod},
+           given={Premvijay},
+           giveni={P\bibinitperiod}}}%
+        {{hash=07bf0a667509d1ae7ac13b785e6de27b}{%
+           family={{Paranjape}},
+           familyi={P\bibinitperiod},
+           given={Aseem},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{fullhash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{bibnamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authorbibnamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authornamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authorfullhash}{5aef9ca06650a3f90b204dd418528493}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{080}
+      \field{eprintclass}{astro-ph.GA}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{\jcap}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{{A self-similar model of galaxy formation and dark halo relaxation}}
+      \field{volume}{2024}
+      \field{year}{2024}
+      \field{pages}{080}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1475-7516/2024/05/080
+      \endverb
+      \verb{eprint}
+      \verb 2311.13952
+      \endverb
+      \keyw{galaxy dynamics,galaxy evolution,galaxy formation,semi-analytic modeling,Astrophysics - Astrophysics of Galaxies,Astrophysics - Cosmology and Nongalactic Astrophysics}
+    \endentry
+    \entry{2024arXiv240708030V}{article}{}
+      \name{author}{2}{}{%
+        {{hash=72561fa4b5cb891e05ca5f9cdf49f619}{%
+           family={{Velmani}},
+           familyi={V\bibinitperiod},
+           given={Premvijay},
+           giveni={P\bibinitperiod}}}%
+        {{hash=07bf0a667509d1ae7ac13b785e6de27b}{%
+           family={{Paranjape}},
+           familyi={P\bibinitperiod},
+           given={Aseem},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{fullhash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{bibnamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authorbibnamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authornamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authorfullhash}{5aef9ca06650a3f90b204dd418528493}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{arXiv:2407.08030}
+      \field{eprintclass}{astro-ph.CO}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{7}
+      \field{title}{{Dynamics of the response of dark matter halo to galaxy evolution in IllustrisTNG}}
+      \field{year}{2024}
+      \field{pages}{arXiv:2407.08030}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.2407.08030
+      \endverb
+      \verb{eprint}
+      \verb 2407.08030
+      \endverb
+      \keyw{Astrophysics - Cosmology and Nongalactic Astrophysics,Astrophysics - Astrophysics of Galaxies}
+    \endentry
+    \entry{2024arXiv240804864V}{article}{}
+      \name{author}{2}{}{%
+        {{hash=72561fa4b5cb891e05ca5f9cdf49f619}{%
+           family={{Velmani}},
+           familyi={V\bibinitperiod},
+           given={Premvijay},
+           giveni={P\bibinitperiod}}}%
+        {{hash=07bf0a667509d1ae7ac13b785e6de27b}{%
+           family={{Paranjape}},
+           familyi={P\bibinitperiod},
+           given={Aseem},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{fullhash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{bibnamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authorbibnamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authornamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authorfullhash}{5aef9ca06650a3f90b204dd418528493}
+      \field{extraname}{3}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{arXiv:2408.04864}
+      \field{eprintclass}{astro-ph.CO}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{month}{8}
+      \field{title}{{The evolving role of astrophysical modelling in dark matter halo relaxation response}}
+      \field{year}{2024}
+      \field{pages}{arXiv:2408.04864}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48550/arXiv.2408.04864
+      \endverb
+      \verb{eprint}
+      \verb 2408.04864
+      \endverb
+      \keyw{Astrophysics - Cosmology and Nongalactic Astrophysics,Astrophysics - Astrophysics of Galaxies}
+    \endentry
+    \entry{2023MNRAS.520.2867V}{article}{}
+      \name{author}{2}{}{%
+        {{hash=72561fa4b5cb891e05ca5f9cdf49f619}{%
+           family={{Velmani}},
+           familyi={V\bibinitperiod},
+           given={Premvijay},
+           giveni={P\bibinitperiod}}}%
+        {{hash=07bf0a667509d1ae7ac13b785e6de27b}{%
+           family={{Paranjape}},
+           familyi={P\bibinitperiod},
+           given={Aseem},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{fullhash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{bibnamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authorbibnamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authornamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authorfullhash}{5aef9ca06650a3f90b204dd418528493}
+      \field{extraname}{4}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.GA}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{\mnras}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{{The quasi-adiabatic relaxation of haloes in the IllustrisTNG and EAGLE cosmological simulations}}
+      \field{volume}{520}
+      \field{year}{2023}
+      \field{pages}{2867\bibrangedash 2886}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1093/mnras/stad297
+      \endverb
+      \verb{eprint}
+      \verb 2206.07733
+      \endverb
+      \keyw{methods: numerical,galaxies: formation,cosmology: theory,dark matter,Astrophysics - Astrophysics of Galaxies,Astrophysics - Cosmology and Nongalactic Astrophysics}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
