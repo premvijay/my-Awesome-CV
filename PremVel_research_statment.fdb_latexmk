@@ -1,29 +1,29 @@
 # Fdb version 4
-["biber PremVel_research_statment"] 1730769781 "PremVel_research_statment.bcf" "PremVel_research_statment.bbl" "PremVel_research_statment" 1731390697 0
-  "PremVel_research_statment.bcf" 1731390696 107903 850f72bfd7047fb19de14918412abcfd "xelatex"
+["biber PremVel_research_statment"] 1731396947 "PremVel_research_statment.bcf" "PremVel_research_statment.bbl" "PremVel_research_statment" 1731396956 0
+  "PremVel_research_statment.bcf" 1731396955 107903 850f72bfd7047fb19de14918412abcfd "xelatex"
   "refers.bib" 1730764863 4060 8dda52862501122ae2c934a8c35e7e36 ""
   (generated)
   "PremVel_research_statment.bbl"
   "PremVel_research_statment.blg"
   (rewritten before read)
-["xdvipdfmx"] 1731390696 "PremVel_research_statment.xdv" "PremVel_research_statment.pdf" "PremVel_research_statment" 1731390697 0
-  "PremVel_research_statment.xdv" 1731390696 118628 e765117a8c9a83db2e4ff695f5770d86 "xelatex"
+["xdvipdfmx"] 1731396955 "PremVel_research_statment.xdv" "PremVel_research_statment.pdf" "PremVel_research_statment" 1731396956 0
+  "PremVel_research_statment.xdv" 1731396955 117852 bfa660b126035820b4ba9b627ce7ef74 "xelatex"
   (generated)
   "PremVel_research_statment.pdf"
   (rewritten before read)
-["xelatex"] 1731390689 "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/PremVel_research_statment.tex" "PremVel_research_statment.xdv" "PremVel_research_statment" 1731390697 0
+["xelatex"] 1731396953 "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/PremVel_research_statment.tex" "PremVel_research_statment.xdv" "PremVel_research_statment" 1731396956 0
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233951854 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
-  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
-  "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
@@ -47,7 +47,7 @@
   "C:/Program Files/MiKTeX/tex/latex/amsmath/amstext.sty" 1655058193 2444 70065bddd85997dc1fd0bb7ae634e5fa ""
   "C:/Program Files/MiKTeX/tex/latex/base/article.cls" 1669844196 20144 d5ecf0a5140c8d8d8b72cbe86e320eff ""
   "C:/Program Files/MiKTeX/tex/latex/base/ifthen.sty" 1669844196 5319 48d7f3cfa322abd2788e3c09d624b922 ""
-  "C:/Program Files/MiKTeX/tex/latex/base/size11.clo" 1669844196 8464 63bf71cc1214ffdd38288da73a7ca182 ""
+  "C:/Program Files/MiKTeX/tex/latex/base/size10.clo" 1669844196 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
   "C:/Program Files/MiKTeX/tex/latex/base/ts1cmr.fd" 1669844196 2430 8418b3f1835e588625becbcac4dbce56 ""
   "C:/Program Files/MiKTeX/tex/latex/biblatex/bbx/numeric.bbx" 1679055682 1818 9ed166ac0a9204a8ebe450ca09db5dde ""
   "C:/Program Files/MiKTeX/tex/latex/biblatex/bbx/standard.bbx" 1679055682 25680 409c3f3d570418bc545e8065bebd0688 ""
@@ -79,12 +79,12 @@
   "C:/Program Files/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/premv/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1730141520 37262408 cf6dd936d28cd4ffd1bb21d36371b0ee ""
-  "PremVel_research_statment.aux" 1731390696 1644 40d3655af2768f68d5b8d57fbab2a78c "xelatex"
-  "PremVel_research_statment.bbl" 1730769787 7415 ed9e9532f8b24eb68d49a9cca88ec998 "biber PremVel_research_statment"
-  "PremVel_research_statment.run.xml" 1731390696 2483 174520ba3bed836bfa2c9e0f81b9c569 "xelatex"
-  "PremVel_research_statment.tex" 1731390688 16685 4afafed0af8190d0c9e701478d8f9289 ""
+  "PremVel_research_statment.aux" 1731396955 1644 862e806d0cb6b296ac6b25168a5da937 "xelatex"
+  "PremVel_research_statment.bbl" 1731396949 7415 ed9e9532f8b24eb68d49a9cca88ec998 "biber PremVel_research_statment"
+  "PremVel_research_statment.run.xml" 1731396955 2483 174520ba3bed836bfa2c9e0f81b9c569 "xelatex"
+  "PremVel_research_statment.tex" 1731396901 16656 0d37e0940ee2c6720774b13657c25a5a ""
   "aas_macros.sty" 1656703196 5962 192a2bee027a7f1dbe3a149923bd7ece ""
-  "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/PremVel_research_statment.tex" 1731390688 16685 4afafed0af8190d0c9e701478d8f9289 ""
+  "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/PremVel_research_statment.tex" 1731396901 16656 0d37e0940ee2c6720774b13657c25a5a ""
   (generated)
   "PremVel_research_statment.aux"
   "PremVel_research_statment.bcf"

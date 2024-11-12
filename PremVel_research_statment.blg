@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
-[1] Config.pm:310> INFO - Logfile is 'PremVel_research_statment.blg'
-[318] biber-MSWIN64:340> INFO - === 
-[403] Biber.pm:419> INFO - Reading 'PremVel_research_statment.bcf'
-[705] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
-[745] Biber.pm:4419> INFO - Processing section 0
-[779] Biber.pm:4610> INFO - Looking for bibtex file 'refers.bib' for section 0
-[874] bibtex.pm:1713> INFO - LaTeX decoding ...
-[910] bibtex.pm:1519> INFO - Found BibTeX data source 'refers.bib'
-[1072] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1072] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1072] Biber.pm:4239> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
-[1072] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[1085] bbl.pm:660> INFO - Writing 'PremVel_research_statment.bbl' with encoding 'UTF-8'
-[1092] bbl.pm:763> INFO - Output to PremVel_research_statment.bbl
+[0] Config.pm:310> INFO - Logfile is 'PremVel_research_statment.blg'
+[124] biber-MSWIN64:340> INFO - === 
+[171] Biber.pm:419> INFO - Reading 'PremVel_research_statment.bcf'
+[288] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
+[306] Biber.pm:4419> INFO - Processing section 0
+[319] Biber.pm:4610> INFO - Looking for bibtex file 'refers.bib' for section 0
+[373] bibtex.pm:1713> INFO - LaTeX decoding ...
+[394] bibtex.pm:1519> INFO - Found BibTeX data source 'refers.bib'
+[454] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[454] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[454] Biber.pm:4239> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
+[454] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[459] bbl.pm:660> INFO - Writing 'PremVel_research_statment.bbl' with encoding 'UTF-8'
+[462] bbl.pm:763> INFO - Output to PremVel_research_statment.bbl
