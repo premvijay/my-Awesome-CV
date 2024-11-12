@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber PremVel_research_statment"] 1730769781 "PremVel_research_statment.bcf" "PremVel_research_statment.bbl" "PremVel_research_statment" 1730769805 0
-  "PremVel_research_statment.bcf" 1730769804 107903 850f72bfd7047fb19de14918412abcfd "xelatex"
+["biber PremVel_research_statment"] 1730769781 "PremVel_research_statment.bcf" "PremVel_research_statment.bbl" "PremVel_research_statment" 1731390697 0
+  "PremVel_research_statment.bcf" 1731390696 107903 850f72bfd7047fb19de14918412abcfd "xelatex"
   "refers.bib" 1730764863 4060 8dda52862501122ae2c934a8c35e7e36 ""
   (generated)
   "PremVel_research_statment.bbl"
   "PremVel_research_statment.blg"
   (rewritten before read)
-["xdvipdfmx"] 1730769804 "PremVel_research_statment.xdv" "PremVel_research_statment.pdf" "PremVel_research_statment" 1730769806 0
-  "PremVel_research_statment.xdv" 1730769804 118576 98909808403819585de236316e34b540 "xelatex"
+["xdvipdfmx"] 1731390696 "PremVel_research_statment.xdv" "PremVel_research_statment.pdf" "PremVel_research_statment" 1731390697 0
+  "PremVel_research_statment.xdv" 1731390696 118628 e765117a8c9a83db2e4ff695f5770d86 "xelatex"
   (generated)
   "PremVel_research_statment.pdf"
   (rewritten before read)
-["xelatex"] 1730769799 "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/PremVel_research_statment.tex" "PremVel_research_statment.xdv" "PremVel_research_statment" 1730769805 0
+["xelatex"] 1731390689 "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/PremVel_research_statment.tex" "PremVel_research_statment.xdv" "PremVel_research_statment" 1731390697 0
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -79,12 +79,12 @@
   "C:/Program Files/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/premv/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1730141520 37262408 cf6dd936d28cd4ffd1bb21d36371b0ee ""
-  "PremVel_research_statment.aux" 1730769804 1644 40d3655af2768f68d5b8d57fbab2a78c "xelatex"
+  "PremVel_research_statment.aux" 1731390696 1644 40d3655af2768f68d5b8d57fbab2a78c "xelatex"
   "PremVel_research_statment.bbl" 1730769787 7415 ed9e9532f8b24eb68d49a9cca88ec998 "biber PremVel_research_statment"
-  "PremVel_research_statment.run.xml" 1730769804 2483 174520ba3bed836bfa2c9e0f81b9c569 "xelatex"
-  "PremVel_research_statment.tex" 1730769767 16686 3e91b2c3ab25cfe2060b9d7085bd29c0 ""
+  "PremVel_research_statment.run.xml" 1731390696 2483 174520ba3bed836bfa2c9e0f81b9c569 "xelatex"
+  "PremVel_research_statment.tex" 1731390688 16685 4afafed0af8190d0c9e701478d8f9289 ""
   "aas_macros.sty" 1656703196 5962 192a2bee027a7f1dbe3a149923bd7ece ""
-  "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/PremVel_research_statment.tex" 1730769767 16686 3e91b2c3ab25cfe2060b9d7085bd29c0 ""
+  "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/PremVel_research_statment.tex" 1731390688 16685 4afafed0af8190d0c9e701478d8f9289 ""
   (generated)
   "PremVel_research_statment.aux"
   "PremVel_research_statment.bcf"
