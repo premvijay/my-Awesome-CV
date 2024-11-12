@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1730769072 "CV-premvijay_velmani.xdv" "CV-premvijay_velmani.pdf" "CV-premvijay_velmani" 1730769074 0
-  "CV-premvijay_velmani.xdv" 1730769071 129860 e2df261894de0ff38b0d19d92e35a8f8 "xelatex"
+["xdvipdfmx"] 1730770043 "CV-premvijay_velmani.xdv" "CV-premvijay_velmani.pdf" "CV-premvijay_velmani" 1730770045 0
+  "CV-premvijay_velmani.xdv" 1730770042 129852 e662513647da3a13e2217efdc33b9d51 "xelatex"
   (generated)
   "CV-premvijay_velmani.pdf"
   (rewritten before read)
-["xelatex"] 1730769059 "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/CV-premvijay_velmani.tex" "CV-premvijay_velmani.xdv" "CV-premvijay_velmani" 1730769074 0
+["xelatex"] 1730770027 "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/CV-premvijay_velmani.tex" "CV-premvijay_velmani.xdv" "CV-premvijay_velmani" 1730770045 0
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136752454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi5.tfm" 1136765053 1508 c4419b1e413bcd6205bf37867d782a47 ""
@@ -177,7 +177,7 @@
   "C:/Program Files/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
   "C:/Program Files/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/premv/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1730141520 37262408 cf6dd936d28cd4ffd1bb21d36371b0ee ""
-  "CV-premvijay_velmani.aux" 1730769071 464 8c4176f6c5c0d6b9be8dbaad04f70742 "xelatex"
+  "CV-premvijay_velmani.aux" 1730770042 464 8c4176f6c5c0d6b9be8dbaad04f70742 "xelatex"
   "CV-premvijay_velmani.tex" 1730149091 4549 90d357dd671a9fa435412397564af294 ""
   "awesome-cv.cls" 1680333064 29662 4df5ad4ba593bb2311de3ff1e9af7e4c ""
   "c:/Users/premv/Documents/acad_work/CV/my-Awesome-CV/CV-premvijay_velmani.tex" 1730149091 4549 90d357dd671a9fa435412397564af294 ""
@@ -187,7 +187,7 @@
   "cv-sections/hobbies-interests.tex" 1680335725 3375 535bc9cc6abdb686319a65d2388bfecb ""
   "cv-sections/honors.tex" 1680244392 1610 952aa76bc29544e01cae13b9dec656ca ""
   "cv-sections/references.tex" 1680244392 994 877a049a9e70eafff3299f18e5485ca1 ""
-  "cv-sections/research.tex" 1730769059 7343 3d73be35032f964dcc55e2a3cdce193e ""
+  "cv-sections/research.tex" 1730770025 7342 1557ab84f581b95f61bc171d4a78148b ""
   "cv-sections/skills.tex" 1730147969 2293 383c91c5ad1c5169c36e66aa79c36f89 ""
   "nul:" 0 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)

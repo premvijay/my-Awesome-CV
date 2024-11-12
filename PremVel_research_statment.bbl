@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global}
-    \entry{2024JCAP...05..080V}{article}{}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{2023MNRAS.520.2867V}{article}{}
       \name{author}{2}{}{%
         {{hash=72561fa4b5cb891e05ca5f9cdf49f619}{%
            family={{Velmani}},
@@ -39,8 +39,50 @@
       \strng{authornamehash}{5aef9ca06650a3f90b204dd418528493}
       \strng{authorfullhash}{5aef9ca06650a3f90b204dd418528493}
       \field{extraname}{1}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.GA}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{\mnras}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{{The quasi-adiabatic relaxation of haloes in the IllustrisTNG and EAGLE cosmological simulations}}
+      \field{volume}{520}
+      \field{year}{2023}
+      \field{pages}{2867\bibrangedash 2886}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1093/mnras/stad297
+      \endverb
+      \verb{eprint}
+      \verb 2206.07733
+      \endverb
+      \keyw{methods: numerical,galaxies: formation,cosmology: theory,dark matter,Astrophysics - Astrophysics of Galaxies,Astrophysics - Cosmology and Nongalactic Astrophysics}
+    \endentry
+    \entry{2024JCAP...05..080V}{article}{}
+      \name{author}{2}{}{%
+        {{hash=72561fa4b5cb891e05ca5f9cdf49f619}{%
+           family={{Velmani}},
+           familyi={V\bibinitperiod},
+           given={Premvijay},
+           giveni={P\bibinitperiod}}}%
+        {{hash=07bf0a667509d1ae7ac13b785e6de27b}{%
+           family={{Paranjape}},
+           familyi={P\bibinitperiod},
+           given={Aseem},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{fullhash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{bibnamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authorbibnamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authornamehash}{5aef9ca06650a3f90b204dd418528493}
+      \strng{authorfullhash}{5aef9ca06650a3f90b204dd418528493}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eid}{080}
@@ -81,9 +123,9 @@
       \strng{authorbibnamehash}{5aef9ca06650a3f90b204dd418528493}
       \strng{authornamehash}{5aef9ca06650a3f90b204dd418528493}
       \strng{authorfullhash}{5aef9ca06650a3f90b204dd418528493}
-      \field{extraname}{2}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eid}{arXiv:2407.08030}
@@ -122,9 +164,9 @@
       \strng{authorbibnamehash}{5aef9ca06650a3f90b204dd418528493}
       \strng{authornamehash}{5aef9ca06650a3f90b204dd418528493}
       \strng{authorfullhash}{5aef9ca06650a3f90b204dd418528493}
-      \field{extraname}{3}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{eid}{arXiv:2408.04864}
@@ -143,48 +185,6 @@
       \verb 2408.04864
       \endverb
       \keyw{Astrophysics - Cosmology and Nongalactic Astrophysics,Astrophysics - Astrophysics of Galaxies}
-    \endentry
-    \entry{2023MNRAS.520.2867V}{article}{}
-      \name{author}{2}{}{%
-        {{hash=72561fa4b5cb891e05ca5f9cdf49f619}{%
-           family={{Velmani}},
-           familyi={V\bibinitperiod},
-           given={Premvijay},
-           giveni={P\bibinitperiod}}}%
-        {{hash=07bf0a667509d1ae7ac13b785e6de27b}{%
-           family={{Paranjape}},
-           familyi={P\bibinitperiod},
-           given={Aseem},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{5aef9ca06650a3f90b204dd418528493}
-      \strng{fullhash}{5aef9ca06650a3f90b204dd418528493}
-      \strng{bibnamehash}{5aef9ca06650a3f90b204dd418528493}
-      \strng{authorbibnamehash}{5aef9ca06650a3f90b204dd418528493}
-      \strng{authornamehash}{5aef9ca06650a3f90b204dd418528493}
-      \strng{authorfullhash}{5aef9ca06650a3f90b204dd418528493}
-      \field{extraname}{4}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{eprintclass}{astro-ph.GA}
-      \field{eprinttype}{arXiv}
-      \field{journaltitle}{\mnras}
-      \field{month}{4}
-      \field{number}{2}
-      \field{title}{{The quasi-adiabatic relaxation of haloes in the IllustrisTNG and EAGLE cosmological simulations}}
-      \field{volume}{520}
-      \field{year}{2023}
-      \field{pages}{2867\bibrangedash 2886}
-      \range{pages}{20}
-      \verb{doi}
-      \verb 10.1093/mnras/stad297
-      \endverb
-      \verb{eprint}
-      \verb 2206.07733
-      \endverb
-      \keyw{methods: numerical,galaxies: formation,cosmology: theory,dark matter,Astrophysics - Astrophysics of Galaxies,Astrophysics - Cosmology and Nongalactic Astrophysics}
     \endentry
   \enddatalist
 \endrefsection
