@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1732009980 "CV-premvijay_velmani.xdv" "CV-premvijay_velmani.pdf" "CV-premvijay_velmani" 1732009981
-  "CV-premvijay_velmani.xdv" 1732009979 134620 8ce3317af16675e45e1a6d1ecc5775b8 "xelatex"
+["xdvipdfmx"] 1732458629 "CV-premvijay_velmani.xdv" "CV-premvijay_velmani.pdf" "CV-premvijay_velmani" 1732458629
+  "CV-premvijay_velmani.xdv" 1732458627 141360 f76a35fff55ccba9349b5bf801e5cd88 "xelatex"
   (generated)
   "CV-premvijay_velmani.pdf"
-["xelatex"] 1732009975 "c:/Users/premv/Documents/Writing/my-Awesome-CV/CV-premvijay_velmani.tex" "CV-premvijay_velmani.xdv" "CV-premvijay_velmani" 1732009981
+["xelatex"] 1732458622 "c:/Users/premv/Documents/Writing/my-Awesome-CV/CV-premvijay_velmani.tex" "CV-premvijay_velmani.xdv" "CV-premvijay_velmani" 1732458629
   "C:/Users/premv/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1634296203 23125526 17e5697ce537820c1c0de5aada7ac67f ""
   "C:/Users/premv/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136752454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/premv/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -169,19 +169,19 @@
   "C:/Users/premv/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1623005660 55589 34128738f682d033422ca125f82e5d62 ""
   "C:/Users/premv/AppData/Local/Programs/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
   "C:/Users/premv/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1623005690 4902 efb3d66683a2da2a232f71e3a571a899 ""
-  "CV-premvijay_velmani.aux" 1732009975 34 3985256e7290058c681f74d7a3565a19 "xelatex"
-  "CV-premvijay_velmani.tex" 1732009009 4551 e46dfd77b7702b1901e861ef35b302c0 ""
+  "CV-premvijay_velmani.aux" 1732458604 596 21956da254e5fcb523e3896b2a6c1db6 "xelatex"
+  "CV-premvijay_velmani.tex" 1732457424 4554 43dcc7aef1c4c2e5ee24d5a5b81fa52a ""
   "awesome-cv.cls" 1732002179 29662 4df5ad4ba593bb2311de3ff1e9af7e4c ""
-  "c:/Users/premv/Documents/Writing/my-Awesome-CV/CV-premvijay_velmani.tex" 1732009009 4551 e46dfd77b7702b1901e861ef35b302c0 ""
+  "c:/Users/premv/Documents/Writing/my-Awesome-CV/CV-premvijay_velmani.tex" 1732457424 4554 43dcc7aef1c4c2e5ee24d5a5b81fa52a ""
   "cv-sections/achievements.tex" 1732002179 1700 30fa56797e9f2b85c904c828e7778ade ""
   "cv-sections/education.tex" 1732002179 3974 49a674144d677c2fae45316150d94891 ""
-  "cv-sections/extracurricular.tex" 1732002179 4421 43c2f77403b9c8f94f514e26916fe304 ""
-  "cv-sections/hobbies-interests.tex" 1732002179 3642 70207740bfb37005b6ee6e07030f531c ""
-  "cv-sections/honors.tex" 1732002179 1610 952aa76bc29544e01cae13b9dec656ca ""
+  "cv-sections/extracurricular.tex" 1732458555 4429 2ee30e96d00574f6e2367c27f58b229c ""
+  "cv-sections/hobbies-interests.tex" 1732458503 3909 4d7de4f5435749a5937fa688df7260a5 ""
+  "cv-sections/honors.tex" 1732457343 1618 5020d0a4c5bed1b02676854e48306dd5 ""
   "cv-sections/references.tex" 1732009919 1508 9d08b08b2c6b128404cfe4a3c7897b85 ""
-  "cv-sections/research.tex" 1732002179 7342 1557ab84f581b95f61bc171d4a78148b ""
+  "cv-sections/research.tex" 1732457288 7785 d0dc4e4cf37dbcb04a81988fe03f4693 ""
   "cv-sections/skills.tex" 1732002179 2293 383c91c5ad1c5169c36e66aa79c36f89 ""
   (generated)
-  "CV-premvijay_velmani.log"
   "CV-premvijay_velmani.aux"
   "CV-premvijay_velmani.xdv"
+  "CV-premvijay_velmani.log"
