@@ -1,0 +1,202 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Awesome Resume/CV
+% XeLaTeX Template
+% Version 1.2 (27/3/2017)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Claud D. Park (posquit0.bj@gmail.com) with modifications by 
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template must be compiled with XeLaTeX, the below lines will ensure this
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+
+\documentclass[11pt, a4paper]{awesome-cv} % A4 paper size by default, use 'letterpaper' for US letter
+\definecolor{purple}{HTML}{2d1135}
+\definecolor{lightpurple}{HTML}{fffaff}
+% \usepackage{pagecolor}
+% \pagecolor{purple}
+
+\geometry{left=1.9cm, top=1.8cm, right=1.9cm, bottom=1.8cm, footskip=.5cm}
+% \geometry{left=2cm, top=1.5cm, right=2cm, bottom=2cm, footskip=.5cm} % Configure page margins with geometry
+
+\fontdir[fonts/] % Specify the location of the included fonts
+
+%Color for highlights
+\colorlet{awesome}{awesome-skyblue} % Default colors include: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange, awesome-nephritis, awesome-concrete, awesome-darknight
+\definecolor{awesome}{HTML}{4fbdb0} % Uncomment if you would like to specify your own color
+
+% Colors for text - uncomment and modify
+% \definecolor{darktext}{HTML}{a3d126}
+% \definecolor{text}{HTML}{e8d3d3}
+% \definecolor{graytext}{HTML}{fce300}
+% \definecolor{lighttext}{HTML}{b8ba5b}
+% \definecolor{sectiondivider}{HTML}{a3c995}
+
+% Uncomment if you would like to specify your own color
+% \definecolor{awesome}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+\definecolor{darktext}{HTML}{414141}
+\definecolor{text}{HTML}{333333}
+\definecolor{graytext}{HTML}{5D5D5D}
+\definecolor{lighttext}{HTML}{888888}
+\definecolor{sectiondivider}{HTML}{5D5D5D}
+
+\setbool{acvSectionColorHighlight}{true}
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad} % If you would like to change the social information separator from a pipe (|) to something else
+
+%----------------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%----------------------------------------------------------------------------------------
+
+\name{Gomathi}{Thangavel}
+\address{\textbf{29-1/27, Ammapet, Salem, India - 636003}}
+\mobile{ (+91) 9659840412}
+
+\email{gomathithangavel.t@gmail.com}
+\linkedin{gomathit}
+%\skype{skypeid}https://www.linkedin.com/in/premvijay-velmani-5118b2a3/
+%\stackoverflow{SOid}{SOname}
+%\twitter{@twit}
+%\linkedin{linkedin name}
+%\reddit{reddit account}
+%\xing{xing name}
+% \extrainfo{\href{https://www.researchgate.net/profile/Premvijay-Velmani}{ResearchGate:Premvijay-Velmani}} % Other text you want to include on this line
+
+\position{Python Developer{\enskip\cdotp\enskip}Software Engineer} % Your expertise/fields
+%\quote{``Make the change that you want to see in the world."} % A quote or statement
+
+\makecvfooter{\today}{Gomathi Thangavel·~~~Curriculum Vitae}{\thepage} % Specify the letter footer with 3 arguments: (<left>, <center>, <right>), leave any of these blank if they are not needed
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\makecvheader % Print the header
+
+\cvsection{Education}
+\begin{cventries}
+\cventry
+    {Bachelor of Engineering in Computer Science  -  CGPA : 8.33} % Degree
+    {Sona College of Technology, Anna University} % Institution
+    {Salem, Tamil Nadu} % Location
+    {July 2013 - July 2017} % Date(s)
+    {}
+
+    \cventry
+    {Master of Technology in Computer Science  - CGPA : 7.90} % Degree
+    {National Institute of Technology, Trichy} % Institution
+    {Trichy, Tamil Nadu} % Location
+    {August 2020 - May 2022} % Date(s)
+    {
+      \begin{cvitems}
+        \item {Thesis: "Enhancing Authentication Protocol in Mobile Cloud Computing (MCC)"}
+        \item {Developed dual-factor authentication model with biometric security for mobile cloud computing}
+        \item {Addressed mobile device resource limitations and energy conservation through optimized algorithms}
+      \end{cvitems}
+    }
+\end{cventries}
+
+\cvsection{Technical Skills}
+\begin{cvskills}
+  \cvskill{Programming Languages}{Python, JavaScript, PHP, Java, C++, HTML, CSS}
+  \cvskill{Frameworks \& Libraries}{React.js, Angular, Express, Node.js, Playwright, Selenium, Material-UI, Redux}
+  \cvskill{Testing \& Automation}{Playwright, Selenium, Manual Testing, Test Automation Frameworks, API Testing}
+  \cvskill{Databases}{MySQL, MongoDB, PostgreSQL, SQL Server}
+  \cvskill{DevOps \& Tools}{Git, GitLab, Visual Studio Code, MCP (Model Context Protocol)}
+  \cvskill{Cloud \& Security}{Mobile Cloud Computing, Authentication Protocols, Biometric Security}
+\end{cvskills}
+
+\cvsection{Experience}
+\begin{cventries}
+\cventry
+    {Software Engineer} % Job title
+    {Zenoti} % Organization
+    {Hyderabad, India} % Location
+    {July 2022 - Present} % Date(s)
+    {
+      \begin{cvitems}
+        \item {Developed and maintained web applications using Python, C++, HTML, CSS, JavaScript, and PHP}
+        \item {Implemented feature for part-time employee wage management system with direct payment processing}
+        \item {Improved website performance and speed by 55\% through optimization techniques}
+        \item {Developed Playwright-based asynchronous test automation framework, transitioning from Selenium}
+        \item {Saved significant computational resources in QA automation testing through framework optimization}
+        \item {Built MCP (Model Context Protocol) tools to integrate LLM with product and major SQL Server databases}
+        \item {Automated high-level tasks for quicker development cycles and improved productivity}
+        \item {Collaborated with cross-functional teams to deliver high-quality software solutions}
+      \end{cvitems}
+    }
+
+\cventry
+    {Software Engineer Intern} % Job title
+    {Zenoti} % Organization
+    {Hyderabad, India} % Location
+    {February 2022 - June 2022} % Date(s)
+    {
+      \begin{cvitems}
+        \item {Worked with MVC frameworks to develop robust and scalable backends}
+        \item {Performed intensive manual testing and automation testing for critical web applications}
+        \item {Developed test scripts for various use cases including payment processing systems}
+        \item {Troubleshot and fixed bugs in backend systems to ensure smooth operation}
+        \item {Gained hands-on experience with Python-based testing frameworks and tools}
+      \end{cvitems}
+    }
+\end{cventries}
+
+\cvsection{Projects}
+\begin{cventries}
+\cventry
+    {Enhancing Authentication Protocol in Mobile Cloud Computing} % Project name
+    {Master's Thesis Project} % Organization
+    {NIT Trichy} % Location
+    {May 2021 - May 2022} % Date(s)
+    {
+      \begin{cvitems}
+        \item {Developed authentication model addressing mobile device resource limitations and energy conservation}
+        \item {Implemented dual-factor protocol with biometric security layer for enhanced security}
+        \item {Ensured secure verification even in case of mobile device loss or compromise}
+        \item {Optimized algorithms to reduce processing time while maintaining security standards}
+      \end{cvitems}
+    }
+
+\cventry
+    {Identity-based Healthcare System} % Project name
+    {Bachelor's Final Project} % Organization
+    {Sona College of Technology} % Location
+    {September 2016 - March 2017} % Date(s)
+    {
+      \begin{cvitems}
+        \item {Developed healthcare model with unique identity parameters for national security improvement}
+        \item {Integrated Aadhaar card system with government incentive programs}
+        \item {Implemented using MySQL database and Java platform (NetBeans IDE)}
+        \item {Achieved logical operations through sequential implementation methodology}
+      \end{cvitems}
+    }
+\end{cventries}
+
+%----------------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%----------------------------------------------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
